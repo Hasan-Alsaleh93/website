@@ -1,0 +1,10 @@
+@import url(about.css);
+@import url(menu.css);
+@import url(tuts.css);
+@import url(hero.css);
+@import url(youtube.css);
+ #contact{
+ text-align: center;
+     background-color: #f2f4f4;
+     padding: 50px 0;
+}

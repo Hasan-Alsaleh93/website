@@ -1,0 +1,28 @@
+.row{
+   background-color: orange;
+   width: 98%;
+   margin: 0 auto;
+}
+#tutorials{
+	background-color: #253342;
+	text-align: center;
+}
+#tutorials h1{
+	color: white;
+}
+.col-3{
+	background-color: black;
+	border:2px solid yellow;
+	width: 32%;
+    height: 200px;
+	float: left;
+	margin-right: 1%;
+    color: aqua
+
+}
+
+.cta.tuts{
+	background-color: white;
+	box-shadow: 0 50px #white;
+	color: black;
+}
